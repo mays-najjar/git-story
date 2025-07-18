@@ -1,3 +1,5 @@
 Chapter 3: Git's First Step into the World of Version Control
 With a heavy heart and a bag full of hopes, Git took his first step into the world unknown.
 
+The first challenge Git faced was understanding the concepts of Version Control.
+
