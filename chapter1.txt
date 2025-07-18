@@ -1,4 +1,6 @@
+Master branch
 Once upon a time, in a town named "Init", lived an enthusiastic explorer named Git.
+
 Git was well-known for his curiosity and eagerness to learn.
 He had one dream - to explore the mysterious world of Version Control.
 
