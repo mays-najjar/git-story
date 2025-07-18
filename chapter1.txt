@@ -7,3 +7,7 @@ He had one dream - to explore the mysterious world of Version Control.
 Modifying chapter1
 After chapter hub
 After chpter fork 
+
+vbnetCopy code
+Git was eager to explore new places.
+
