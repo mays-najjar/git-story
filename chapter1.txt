@@ -1,3 +1,15 @@
-Once upon a time, in a village named "Init", lived a brave adventurer named Git.
+Master branch
+Once upon a time, in a town named "Init", lived an enthusiastic explorer named Git.
+
 Git was well-known for his curiosity and eagerness to learn.
 He had one dream - to explore the mysterious world of Version Control.
+
+Modifying chapter1
+After chapter hub
+After chpter fork 
+
+vbnetCopy code
+Git was eager to explore new places.
+
+Testing hook
+Testing hookanother time!
